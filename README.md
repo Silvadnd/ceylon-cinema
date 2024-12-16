@@ -92,6 +92,9 @@ Before you begin, ensure you have the following installed:
 
 ![Signin](https://github.com/user-attachments/assets/1ec6e267-7c9b-4786-a265-38d067869560)
 
+![Admin Dashboard](https://github.com/user-attachments/assets/2a61018f-f051-4f18-90b8-35833b697b77)
+
+![show-time-selection](https://github.com/user-attachments/assets/63c5d567-adb1-4f0f-9da8-1f2e0abb6db7)
 
 
 ## 💡 Future Enhancements
