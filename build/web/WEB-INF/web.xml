@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://java.sun.com/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
+         version="3.0">
+         
+    <!-- Welcome Page -->
+    <welcome-file-list>
+        <welcome-file>sign_in.jsp</welcome-file>
+    </welcome-file-list>
+    
+    <!-- Servlet Definitions -->
+    <servlet>
+        <servlet-name>SignInServlet</servlet-name>
+        <servlet-class>SignInServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>SignInServlet</servlet-name>
+        <url-pattern>/SignInServlet</url-pattern>
+    </servlet-mapping>
+    
+    <servlet>
+        <servlet-name>SignUpServlet</servlet-name>
+        <servlet-class>SignUpServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>SignUpServlet</servlet-name>
+        <url-pattern>/SignUpServlet</url-pattern>
+    </servlet-mapping>
+    
+    <!-- ContactUsServlet Configuration -->
+    <servlet>
+        <servlet-name>ContactUsServlet</servlet-name>
+        <servlet-class>ContactUsServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ContactUsServlet</servlet-name>
+        <url-pattern>/ContactUsServlet</url-pattern>
+    </servlet-mapping>
+    
+    <!-- PaymentServlet Configuration -->
+    <servlet>
+        <servlet-name>ProcessBookingServlet</servlet-name>
+        <servlet-class>ProcessBookingServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ProcessBookingServlet</servlet-name>
+        <url-pattern>/ProcessBookingServlet</url-pattern>
+    </servlet-mapping>
+    
+      <!-- BookingConfirmationServlet Configuration -->
+    
+</web-app>
