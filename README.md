@@ -78,24 +78,14 @@ Before you begin, ensure you have the following installed:
 
 ### 🎭 Movie List Page
 
-![Home-Night-Mode](https://github.com/user-attachments/assets/0199d369-26ea-46b8-b65d-1aa43570875b)
-
-![About](https://github.com/user-attachments/assets/bcabb848-f639-407a-905b-99d9ad44d743)
-
-![Contact Us page](https://github.com/user-attachments/assets/38809289-b450-4507-aa00-9d72408cb111)
-
-![Movies](https://github.com/user-attachments/assets/86f22f01-000a-4960-b13c-a537abd78f09)
-
-![seat-booking](https://github.com/user-attachments/assets/5c4a50c1-3f8c-4684-a78c-c006079f78ba)
-
-![payment](https://github.com/user-attachments/assets/2c0b5fce-aa95-45d5-be46-753132676764)
-
-![Signin](https://github.com/user-attachments/assets/1ec6e267-7c9b-4786-a265-38d067869560)
-
-![Admin Dashboard](https://github.com/user-attachments/assets/2a61018f-f051-4f18-90b8-35833b697b77)
-
-![show-time-selection](https://github.com/user-attachments/assets/63c5d567-adb1-4f0f-9da8-1f2e0abb6db7)
-
+![Signin](https://github.com/user-attachments/assets/502dc212-99de-4559-b1f8-fc63bdf3b49d)
+![About](https://github.com/user-attachments/assets/cb36c1e5-dcd9-4830-b6fa-eef772a2241f)
+![WhatsApp Image 2025-01-02 at 12 52 50_7f610f08](https://github.com/user-attachments/assets/c37e374b-b107-4bfe-9608-eecfc1161400)
+![payment](https://github.com/user-attachments/assets/0f5effa0-5db2-488c-aead-d780ef565fd1)
+![show-time-selection](https://github.com/user-attachments/assets/d423d3f3-39a6-4e2d-b8c2-ca84909c4dfb)
+![seat-booking](https://github.com/user-attachments/assets/59422f2c-5f20-4878-83ff-c7d0111d3155)
+![Home-Light-Mode](https://github.com/user-attachments/assets/d5929568-745a-4656-b38e-a47ba2e98503)
+![Movies](https://github.com/user-attachments/assets/e597dc0e-396b-46ea-bd51-9e2982a51bfe)
 
 ## 💡 Future Enhancements
 
