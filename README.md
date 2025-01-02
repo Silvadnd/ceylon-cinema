@@ -80,7 +80,7 @@ Before you begin, ensure you have the following installed:
 
 ![Signin](https://github.com/user-attachments/assets/502dc212-99de-4559-b1f8-fc63bdf3b49d)
 ![About](https://github.com/user-attachments/assets/cb36c1e5-dcd9-4830-b6fa-eef772a2241f)
-![WhatsApp Image 2025-01-02 at 12 52 50_7f610f08](https://github.com/user-attachments/assets/c37e374b-b107-4bfe-9608-eecfc1161400)
+![WhatsApp Image 2025-01-02 at 12 52 49_daf94b75](https://github.com/user-attachments/assets/afb56e16-a826-4f5a-8187-ec863808fc0f)
 ![payment](https://github.com/user-attachments/assets/0f5effa0-5db2-488c-aead-d780ef565fd1)
 ![show-time-selection](https://github.com/user-attachments/assets/d423d3f3-39a6-4e2d-b8c2-ca84909c4dfb)
 ![seat-booking](https://github.com/user-attachments/assets/59422f2c-5f20-4878-83ff-c7d0111d3155)
