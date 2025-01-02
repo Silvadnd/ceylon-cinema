@@ -77,23 +77,17 @@ Before you begin, ensure you have the following installed:
 ## 📷 Screenshots
 
 ### 🎭 Movie List Page
-![Uploading About.png…]()
+![About](https://github.com/user-attachments/assets/d4571b64-27cc-4685-b4bc-5b4af91fbdeb)
 
-![About](https://github.com/user-attachments/assets/bcabb848-f639-407a-905b-99d9ad44d743)
+![Admin Dashboard](https://github.com/user-attachments/assets/06b8abc4-2d9c-49b5-b1a4-07fedc55ef01)
 
-![Contact Us page](https://github.com/user-attachments/assets/38809289-b450-4507-aa00-9d72408cb111)
+![Movies](https://github.com/user-attachments/assets/bfe74e49-b2eb-4b7d-b93f-c3790dcfb7bc)
 
-![Movies](https://github.com/user-attachments/assets/86f22f01-000a-4960-b13c-a537abd78f09)
+![Contact Us page](https://github.com/user-attachments/assets/88619cf7-295e-4a98-9bf0-6394379f432e)
 
-![seat-booking](https://github.com/user-attachments/assets/5c4a50c1-3f8c-4684-a78c-c006079f78ba)
+![e-ticket](https://github.com/user-attachments/assets/9cad1cf2-d656-4445-bb4b-f587b645bcfd)
 
-![payment](https://github.com/user-attachments/assets/2c0b5fce-aa95-45d5-be46-753132676764)
-
-![Signin](https://github.com/user-attachments/assets/1ec6e267-7c9b-4786-a265-38d067869560)
-
-![Admin Dashboard](https://github.com/user-attachments/assets/2a61018f-f051-4f18-90b8-35833b697b77)
-
-![show-time-selection](https://github.com/user-attachments/assets/63c5d567-adb1-4f0f-9da8-1f2e0abb6db7)
+![Movies](https://github.com/user-attachments/assets/68a66fb9-330f-4e82-8cfc-85e8bdc375bc)
 
 
 ## 💡 Future Enhancements
