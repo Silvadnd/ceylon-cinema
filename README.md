@@ -77,8 +77,7 @@ Before you begin, ensure you have the following installed:
 ## 📷 Screenshots
 
 ### 🎭 Movie List Page
-
-![Home-Night-Mode](https://github.com/user-attachments/assets/0199d369-26ea-46b8-b65d-1aa43570875b)
+![Uploading About.png…]()
 
 ![About](https://github.com/user-attachments/assets/bcabb848-f639-407a-905b-99d9ad44d743)
 
